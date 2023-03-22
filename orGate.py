@@ -104,7 +104,6 @@ class Network:
             layer[-1].setP_hat(1)
             self.layers.append(layer)
 
-    #holy fuck my mind:
     #https://www.analyticsvidhya.com/blog/2021/03/binary-cross-entropy-log-loss-for-binary-classification/
 
     def setInput(self, inputs):
