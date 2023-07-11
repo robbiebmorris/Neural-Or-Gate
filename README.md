@@ -1,4 +1,4 @@
-# Perceptron from Scratch.
+# Neural Network (Perceptron) from Scratch
 
 This project is a simple implementation of a neural network from scratch. The neural network is capable of performing binary classification tasks. It uses the concept of artificial neurons and backpropagation to learn from input data and make predictions.
 
